@@ -1,12 +1,12 @@
 module.exports = {
-    token: "",
-    prefix: "",
-    ownerID: "",
+    token: "OTIzOTczNTcwMjEwNzA1NDY4.YcXzcQ.HXMkyBLU0-iruadeN8XP9C1Tv2c",
+    prefix: "/",
+    ownerID: "792802513761861653",
     SpotifyID: "",
     SpotifySecret: "",
-    mongourl: "",
+    mongourl: "mongodb+srv://carlomongodb12:carlomongodb12@cluster0.dcjty.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     embedColor: "",
-    logs: "",
+    logs: "807552751403270145",
 
   nodes: {
      
